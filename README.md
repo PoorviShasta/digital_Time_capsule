@@ -13,14 +13,12 @@ A full-stack MERN application that allows users to create, store, and preserve d
 * **Dashboard View:** Easily view locked and unlocked capsules at a glance.
 
 ---
-
 ## 🛠️ Tech Stack
 
 * **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB / JSON Storage
 * **Environment Management:** `dotenv`
-
 ---
 
 ## 📂 Project Structure
